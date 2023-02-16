@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<a href="https://github.com/ali-here"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mubassirhayat&show_icons=true&theme=dark" align="right" height="150" /></a>
+<a href="https://github.com/ali-here"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=ali-here&show_icons=true&theme=dark" align="right" height="150" /></a>
 
 ### Hi there 👋
 
