@@ -19,4 +19,4 @@ This is Ali Khan
 - 👯 I’m looking to collaborate on OSS
 - 💬 Ask me anything at [@aliidey_](https://twitter.com/aliidey_)
 - 📫 How to reach me: [ali.khan.321@outlook.com](mailto:ali.khan.321@outlook.com)
-- ⚡ Fun fact: I love watching movies (Big Marvel Fan)
+- ⚡ Fun fact: I love watching movies.
